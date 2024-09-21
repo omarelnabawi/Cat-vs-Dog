@@ -9,7 +9,8 @@ This Jupyter Notebook contains the implementation for training the model to clas
 
 ### 2. `app.py`
 This is a Streamlit application that provides a user-friendly interface for uploading images and receiving predictions from the trained model. Users can upload an image of a cat or a dog, and the app will display the predicted category.
-
+### 3.`final.h5`
+This file is the final model to predict the image you can use it with `app.py` only 
 ## Getting Started
 
 ### Prerequisites
